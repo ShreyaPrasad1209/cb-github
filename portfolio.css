@@ -1,0 +1,131 @@
+* {
+
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0;
+    
+  }
+  
+  body {
+    background-color:white;
+    padding: 20px;
+    font-family: Arial;
+  }
+  
+
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
+ 
+  div> h1 {
+    font-size: 30px;
+    word-break: break-all;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #drawer{
+    background-color: steelblue; 
+    padding: 20px 0px 20px 956px;
+    font: bold 20px; 
+    cursor: pointer;
+  }
+
+  #drawer a{
+    color: whitesmoke;
+    text-decoration: none;
+    }
+
+    #Introduction{  
+      color:#ada6df;
+      margin-left:0%;
+      padding-top:90px;
+      font-size: 30px; 
+      float: left;
+      width: 33.33%;
+    }   
+
+.class1 p{
+  font: normal 20px Lucida sans Unicode,Lucida Grande,sans-serif;
+  text-align: left;
+  width: 30%;
+  
+}
+.class1>figure{
+  float: right;
+  width: 40%;
+  padding-left: 0px;
+  padding-top: 140px;
+ 
+}
+.class2 p{
+  font: normal 20px Lucida sans Unicode,Lucida Grande,sans-serif;
+  text-align: left;
+  border: 3px none;
+  width: 30%;
+}
+.class2>figure{
+  float: right;
+  width: 40%;
+  padding-left: 0px;
+  padding-top: 120px;
+  
+}
+.class3 p{
+  font: normal 20px Lucida sans Unicode,Lucida Grande,sans-serif;
+  text-align: left;
+  border: 3px none;
+  width: 30%;
+}
+.class3 li{
+  font: normal 20px Lucida sans Unicode,Lucida Grande,sans-serif;
+  text-align: left;
+  border: 3px none;
+  width: 30%;
+}
+#abc{
+  font: normal 20px Lucida sans Unicode,Lucida Grande,sans-serif;
+  text-align: left;
+  border: 3px none;
+  width: 40%;
+}
+.class4 {
+  font: normal 20px Lucida sans Unicode,Lucida Grande,sans-serif;
+  height: 50px;
+  width: 100%;
+  word-spacing: 30px;
+  padding-top: 30px;
+}
+
+footer{
+  background-color: steelblue;
+  padding: 10px;
+  color: white;
+  text-align: left;
+}
+
+.class0
+{
+ display: block;
+ margin-left: 40%;
+ margin-right: auto;
+ width: 30%;
+}
+#education{
+  
+  color:#ada6df;
+  margin-left:0%;
+  padding-top:40px;
+  font-size: 30px; 
+  float: left;
+  width: 33.33%;
+}
+
+#skills {  
+  color:#ada6df;
+  margin-left:0%;
+  padding-top:40px;
+  font-size: 30px; 
+  float: left;
+  width: 33.33%;
+}   
